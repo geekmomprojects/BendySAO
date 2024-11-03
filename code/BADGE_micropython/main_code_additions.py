@@ -151,8 +151,9 @@ def demo_generators(leds, n_frames=200):
     play(ani, n_frames)
 
 def repeat_animations(leds, reps=200):
-    demo_animations(leds, reps)
-    demo_generators(leds, reps)
+    while True:
+        demo_animations(leds, reps)
+        demo_generators(leds, reps)
 
 
 # Create thread to run animations in the background 
