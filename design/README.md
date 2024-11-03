@@ -1,0 +1,1 @@
+Cut the shapes in this file from 1.6mm thick acrylic to use as a buffer layer between the two PCB layers. They are necessary to prevent the spring connectors from getting crushed.
