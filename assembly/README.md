@@ -14,7 +14,7 @@ increase the SAO's length.
 <figure>
 <img src="./media/image1.png" style="width:5.62816in;height:4.86619in"
 alt="A green plastic toy with text and images AI-generated content may be incorrect." />
-<figcaption><p>: The three different sections in a Bendy SAO. This SAO
+<figcaption><p>caption: The three different sections in a Bendy SAO. This SAO
 has two identical middle sections.</p></figcaption>
 </figure>
 
