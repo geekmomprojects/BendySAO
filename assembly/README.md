@@ -12,7 +12,7 @@ bottom). You can chain as many middle sections as desired together to
 increase the SAO's length.
 
 <figure>
-<img src="./media/image1.png" style="width:5.62816in;height:4.86619in"
+<img src="./media/image1.png" width=400 
 alt="A green plastic toy with text and images AI-generated content may be incorrect." />
 <figcaption><p>caption: The three different sections in a Bendy SAO. This SAO
 has two identical middle sections.</p></figcaption>
@@ -32,40 +32,36 @@ SECTION!**
 
 ### **Bottom Section:**
 
-![A hand holding a green circuit board AI-generated content may be
-incorrect.](./media/image2.png){width="2.5833333333333335in"
-height="2.5in"} ![A green circuit board with a white arrow pointing to
-it AI-generated content may be
-incorrect.](./media/image3.png){width="2.2117727471566053in"
-height="2.5in"}
+<p>
+<img src="./media/image2.png" height=300 />
+<img src="./media/image3.png" height=300 />
+</p>
+
 
 ### **Middle Section:**
 
 **!!! It is essential that the alignment of the front and back PCBs in
 the middle section matches the image below !!!**
 
-![A finger touching a green circuit board AI-generated content may be
-incorrect.](./media/image4.png){width="3.0032655293088366in"
-height="2.5in"} ![A green circuit board with many small holes
-AI-generated content may be
-incorrect.](./media/image5.png){width="1.992671697287839in"
-height="2.5in"}
+<p>
+<img src="./media/image4.png" height=300 />
+<img src="./media/image5.png" height=300 />
+</p>
 
 ### **Top Section:**
 
-![A person holding a green object AI-generated content may be
-incorrect.](./media/image6.png){width="2.2544586614173228in"
-height="2.0in"} ![](./media/image7.png){width="1.3907764654418198in"
-height="2.0in"}
+<p>
+<img src="./media/image6.png" height=300 />
+<img src="./media/image7.png" height=300 />
+</p>
 
 The image below shows where to apply the solder when connecting the
 front and back PCBs in each section. Be sure to solder the front and
 back PCBs in each section together BEFORE connecting the sections
 together in the final assembly.
-
-![A green toy arms with eyes and hands AI-generated content may be
-incorrect.](./media/image8.png){width="6.920599300087489in"
-height="7.376334208223972in"}
+<p>
+ <img src="./media/image8.png" width=800 />   
+</p>
 
 # Step 2: Combine Sections into the Bendy SAO Assembly
 
@@ -99,7 +95,6 @@ SAO and follow the steps below:
 Repeat this process until all sections of the Bendy SAO are joined
 together as shown below:
 
-![A green piece of electronic device with screws and bolts AI-generated
-content may be
-incorrect.](./media/image9.png){width="7.117220034995626in"
-height="8.177508748906387in"}
+<p>
+ <img src="./media/image9.png" width=800 />   
+</p>
