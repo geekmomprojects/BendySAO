@@ -1,4 +1,4 @@
-The bendy SAO contains an ATTiny 3224 which can be programed using any
+The Bendy SAO contains an ATTiny 3224 which can be programed using any
 UPDI programmer.
 
 If you do not have an UPDI programmer, you can make one with an Arduino
@@ -13,7 +13,9 @@ Once the UPDI programmer is working, connect it to the SAO connector.
 while **Voltage/Ground connect to the corresponding pins on the
 programmer/SAO.**
 
-![](./media/image1.jpeg){width="6.5in" height="4.894444444444445in"}
+<p align="center">
+  <img src="./media/image1.jpeg" width="800" \>
+</p>
 
 To display blinky light patterns on the ATTiny, install the following
 code using the UPDI programmer and the Arduino IDE.
@@ -23,9 +25,9 @@ code using the UPDI programmer and the Arduino IDE.
 The Arduino settings should match those shown below (use whatever COM
 port is attached to the UPDI programmer)
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image2.png){width="6.5in"
-height="5.585416666666666in"}
+<p align="center">
+  <img src="./media/image2.png" width="800" \>
+</p>
 
 If you encounter difficulties uploading the code, you may need to run
 "Burn Bootloader" first.
