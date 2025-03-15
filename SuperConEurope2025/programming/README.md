@@ -26,7 +26,7 @@ The Arduino settings should match those shown below (use whatever COM
 port is attached to the UPDI programmer)
 
 <p align="center">
-  <img src="./media/image2.jpeg" width="800" \>
+  <img src="./media/image2.png" width="800" \>
 </p>
 
 If you encounter difficulties uploading the code, you may need to run
